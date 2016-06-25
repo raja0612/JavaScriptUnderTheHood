@@ -20,7 +20,7 @@ var d = c;
 
 d.greetings = "Namaste"; // mutate object c value . so both c & d values will be updated.
 
-consle.log(c);
+console.log(c);
 console.log(d);
 
 // all objects and functions in java script are pass by refernce.
