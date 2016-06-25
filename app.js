@@ -23,4 +23,4 @@ d.greetings = "Namaste"; // mutate object c value . so both c & d values will be
 consle.log(c);
 console.log(d);
 
-// all objects and functions in java script are pass by refernce
+// all objects and functions in java script are pass by refernce.
